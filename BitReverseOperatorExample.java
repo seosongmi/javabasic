@@ -6,6 +6,8 @@ public class BitReverseOperatorExample {
 			int num2 = ~num1;
 			int num3 = num2 + 1;
 			
+			// java add....
+			
 			String returnValue = toBinaryString(num1);
 			System.out.println(returnValue);
 			
@@ -23,4 +25,6 @@ public class BitReverseOperatorExample {
 			}
 			return str;
 	    }
-	}
+		
+		// java add
+}
