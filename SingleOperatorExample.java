@@ -33,7 +33,7 @@ public class SingleOperatorExample {
 		}
 		
 		int bit1 = 10;
-		int bit2 = ~bit1; + 1;
+		int bit2 = ~bit1 + 1;
 		System.out.println(bit2);
 	}
 }
